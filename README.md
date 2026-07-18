@@ -87,14 +87,14 @@ Improve customer support resolution times.
 Create loyalty programs for long-term customers.
 Develop a churn prediction dashboard for business teams.
 
-⸻
+
 Future Improvements
 Build a Machine Learning model to predict customer churn.
 Create an interactive Power BI dashboard.
 Perform feature engineering to improve business insights.
 Deploy the project as an interactive web application.
 
-⸻
+
 Author
 Raghad Otaif
 Health Informatics Graduate
